@@ -1,5 +1,5 @@
 {
-    "name": "phalapi/alipay",
+    "name": "wangsheng/alipay",
     "description": "ws支付宝支付",
     "type": "library",
     "keywords": [
